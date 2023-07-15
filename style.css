@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(rgb(143, 139, 139),rgb(222, 137, 137),rgb(146, 141, 141));
+}
+
+#bulb
+{
+    border-radius: 20px;
+    /* border: 1px solid black; */
+    box-shadow: 3px 3px 3px  black;
+}
+h1{
+    text-shadow: 2px 2px 2px black;
+}
